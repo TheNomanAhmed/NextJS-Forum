@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {\n  return \"Hello Jamstack\";\n});","map":{"version":3,"sources":["D:/Forum/src/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe;AAAA,SAAM,gBAAN;AAAA,CAAf","sourcesContent":["export default () => \"Hello Jamstack\";\r\n"]},"metadata":{},"sourceType":"module"}
